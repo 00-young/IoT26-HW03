@@ -6,7 +6,7 @@
 
 ## Video
 
-<video src="[https://github.com/user/repo/assets/12345/video.mp4](https://github.com/user-attachments/assets/65fa1c41-a240-4815-b365-f6f9cae89a58)" width="50%"></video>
+<video src="https://github.com/user-attachments/assets/65fa1c41-a240-4815-b365-f6f9cae89a58", width="50%"></video>
 
 ![Video](https://github.com/user-attachments/assets/7548f918-0b6d-479c-aff2-ae3c0b076762)
 
